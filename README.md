@@ -76,9 +76,9 @@ A simple and clean login page interface.
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [@giftiko](https://github.com/@giftiko)
+- **GitHub:** [giftiko](https://github.com/@giftiko)
 - **Email:** frehiwottesema81@gmail.com
-- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/Frehiwot Tesema)
+- **LinkedIn:** (https://www.linkedin.com/in/Frehiwot_Tesema)
 
 ---
 
