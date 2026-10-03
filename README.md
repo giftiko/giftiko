@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Your Name 👋
+# Hi, I'm Frehiwot Tesema 👋
 
 ### 💻 Frontend Developer | 🎨 Creative Thinker
 
@@ -76,9 +76,9 @@ A simple and clean login page interface.
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- **Email:** your-email@example.com
-- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)
+- **GitHub:** [@giftiko](https://github.com/@giftiko)
+- **Email:** frehiwottesema81@gmail.com
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/Frehiwot Tesema)
 
 ---
 
